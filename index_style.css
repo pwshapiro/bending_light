@@ -62,7 +62,8 @@ body {
     height: auto; */
 
     transform: scale(3);
-
+    height: 100%;
+    width: auto;
     position: absolute;
     top: 0;
     overflow: hidden;
